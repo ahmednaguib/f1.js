@@ -1,0 +1,1 @@
+/*simple library that contains javascript helper functions every developer needs.*/function helloWorld(){	return 'hello world';}
